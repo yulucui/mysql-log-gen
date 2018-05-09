@@ -1,0 +1,17 @@
+[{
+    "ID": 1,
+    "SOURCE_NAME": "应用",
+    "PARENT_ID": 0,
+    "DESC": "",
+    "STAT": 1,
+    "REST_PATTERN": "^/search",
+    "THRIFT_PATTERN": ".*Search"
+},{
+    "ID": 2,
+    "SOURCE_NAME": "配置",
+    "PARENT_ID": 0,
+    "DESC": "",
+    "STAT": 1,
+    "REST_PATTERN": "^/datatype",
+    "THRIFT_PATTERN": ".*DataType"
+}]
